@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulislam1431&label=Profile%20views&color=0e75b6&style=flat" alt="saifulislam1431" /> </p>
 
-- 🌱 I’m currently learning **Full Stack developing**
+- 🌱 I’m currently learning **Full Stack development**
 
 - 👨‍💻 All of my projects are available at [https://bespoke-crepe-e1c84b.netlify.app/](https://bespoke-crepe-e1c84b.netlify.app/)
 
