@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Full Stack development**
 
-- 👨‍💻 All of my projects are available at [https://saiful-portfolio-23941.web.app/](https://saiful-portfolio-23941.web.app/)
-
 - 💬 Ask me about **React, MongoDb, Firebase**
 
 - 📫 How to reach me **saifulislam140301@gmail.com**
